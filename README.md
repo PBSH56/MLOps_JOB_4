@@ -1,4 +1,4 @@
-#Auto-Hyper-parameter Optimization
+# Auto-Hyper-parameter Optimization
 
 ## Requirements 
 
@@ -11,11 +11,11 @@
 ## Run process
 
 ```bash
-python mlops.python
+python mlops.py
 ```
 
 ## Accuracy save in 
 
 ```bash
-  accuracy.txt
+accuracy.txt
 ```
